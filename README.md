@@ -138,7 +138,7 @@ Implementation code (DAC/DAAC/EAC/Mina): **Proprietary**
 # 🔗 Links
 
 - GitHub Organization: https://github.com/oscurso  
-- Contact: _to be added_  
+- Contact: GitHub Issues or Discussions (for now)
 
 ---
 
